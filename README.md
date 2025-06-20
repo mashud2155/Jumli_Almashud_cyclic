@@ -17,6 +17,9 @@ Row for B: 0 0 1 0
 Row for C: 0 0 0 1
 Row for D: 1 0 0 0
 
+Row for A: 0 1 0 0
+Row for B: 0 0 1 0
+
 That represents:
 
 A → B
